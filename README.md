@@ -1,5 +1,4 @@
 # 📰 **Web Scraper Project**  
-## 🌐 **Data Extraction from Articles**  
 
 ## 📝 **Overview**  
 This project facilitates the **extraction of data from any article or webpage**. It utilizes **BeautifulSoup** for parsing HTML and **requests** for making HTTP requests, making it easy to gather information from various online sources.
